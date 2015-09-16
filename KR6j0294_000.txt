@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 觀自在如意輪菩薩瑜伽法要
+#+DATE: 2015-08-30 20:29:32.248278
+#+PROPERTY: JUAN 0
